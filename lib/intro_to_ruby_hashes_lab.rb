@@ -3,8 +3,7 @@ def new_hash
   {}
 end
 my_hash = {
-  key: "value"
-  my_hash
+  "key" => "value"
 }
 def my_hash
   # return a valid hash with any key/value pair of your choice
