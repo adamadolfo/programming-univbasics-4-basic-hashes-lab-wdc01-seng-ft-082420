@@ -1,7 +1,11 @@
 def new_hash
   # return an empty hash
+  {}
 end
-
+my_hash = {
+  key: "value"
+  my_hash
+}
 def my_hash
   # return a valid hash with any key/value pair of your choice
 end
